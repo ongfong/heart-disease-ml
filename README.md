@@ -55,6 +55,9 @@ knn_model = load("models/knn_heart_disease.joblib")
 
 # Predict on new data
 predictions = knn_model.predict(X_new)
+```
+
+---
 
 ## Dependencies
 Required Python libraries are listed in `requirements.txt`.  
