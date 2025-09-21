@@ -1,0 +1,15 @@
+# Data manipulation
+pandas>=1.5
+numpy>=1.24
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+plotly>=5.18
+
+# Machine learning
+scikit-learn>=1.2
+xgboost>=1.7
+
+# Model saving
+joblib>=1.3
