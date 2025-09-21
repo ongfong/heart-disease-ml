@@ -10,6 +10,8 @@ Early detection of heart disease can help reduce severe outcomes. This project u
 - 918 records  
 - 11 features + 1 target (`HeartDisease`)  
 - [Download from Kaggle](https://www.kaggle.com/fedesoriano/heart-failure-prediction)
+  ⚠️ Dataset is not included in this repository due to Kaggle license.  
+Please download it directly from Kaggle if you want to reproduce the results.
 
 ---
 
@@ -69,5 +71,4 @@ pip install -r requirements.txt
 ---
 
 ## Notes
-- Dataset is **not included** due to Kaggle license.  
 - Interactive plots (e.g., correlation heatmap) are available on [Kaggle Notebook](https://www.kaggle.com/code/enfantksr/heartdisease-prediction)
