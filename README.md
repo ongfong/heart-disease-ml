@@ -65,3 +65,9 @@ Install them using:
 
 ```bash
 pip install -r requirements.txt
+```
+---
+
+## Notes
+- Dataset is **not included** due to Kaggle license.  
+- Interactive plots (e.g., correlation heatmap) are available on [Kaggle Notebook](https://www.kaggle.com/code/enfantksr/heartdisease-prediction)
