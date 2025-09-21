@@ -14,9 +14,14 @@ Early detection of heart disease can help reduce severe outcomes. This project u
 ---
 
 ## Folder Structure
-
-<pre> ## Folder Structure ``` heart-disease-ml/ ├── notebooks/ # Jupyter notebooks (EDA, training, evaluation) ├── models/ # Saved KNN model (knn_heart_disease.joblib) ├── data/ # Dataset CSV (not included, download from Kaggle) ├── requirements.txt # Python libraries used ├── README.md ``` </pre>
-
+```
+heart-disease-ml/
+├── notebooks/ # Jupyter notebooks (EDA, training, evaluation)
+├── models/ # Saved KNN model (knn_heart_disease.joblib)
+├── data/ # Dataset CSV (not included, download from Kaggle)
+├── requirements.txt # Python libraries used
+├── README.md
+```
 ---
 
 ## Example Results
