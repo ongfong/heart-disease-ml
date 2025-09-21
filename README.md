@@ -10,7 +10,7 @@ Heart Failure Prediction dataset (Kaggle, FEDESORIANO)
 ## Folder Structure
 - `notebooks/` → Jupyter Notebooks (EDA, training, evaluation)
 - `models/` → Saved KNN model (`knn_heart_disease.joblib`)
-- `data/` → Dataset (optional, download from [Kaggle Heart Failure Prediction](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction?select=heart.csv))
+- `data/` → Dataset (download from [Kaggle Heart Failure Prediction](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction?select=heart.csv))
 - `requirements.txt` → Python libraries used
 
 ## Usage
