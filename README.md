@@ -40,9 +40,9 @@ heart-disease-ml/
 ---
 
 ## Models & Evaluation
-| Model | Accuracy | F1-score | Precision | Recall |
-|-------|---------|----------|-----------|--------|
-| KNN   | 0.82    | 0.81     | 0.80      | 0.82   |
+| Model | F1-score | Precision | Recall |
+|-------|---------|----------|-----------|
+| KNN     | 0.8161     | 0.870      | 0.853   |
 
 > For full details on exploratory data analysis, feature engineering, and model evaluation, see the notebook in `notebooks/`.
 
