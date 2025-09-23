@@ -23,6 +23,7 @@ heart-disease-ml/
 ├── notebooks/       # Jupyter notebooks (EDA, training, evaluation)
 ├── models/          # Saved KNN model (knn_heart_disease.joblib)
 ├── data/            # Dataset CSV (not included, download from Kaggle)
+├── images/          # Exported plots (EDA, ROC curve, etc.)
 ├── requirements.txt # Python libraries used
 ├── README.md
 
@@ -31,14 +32,14 @@ heart-disease-ml/
 
 ## 📈 Example Results
 
-### 1. Data Distribution
-![data_distribution](images/data_distribution.png)
+### 1. Correlation Heatmap
+![correlation_heatmap](images/corr.png)
 
-### 2. Correlation Heatmap
-![correlation_heatmap](images/correlation_heatmap.png)
-
-### 3. ROC Curve of KNN Model
+### 2. ROC Curve of KNN Model
 ![roc_curve](images/roc_curve.png)
+
+### 3. Confusion Matrix of KNN Model
+![confusion_matrix](images/confusion_matrix.png)
 
 ---
 
@@ -47,7 +48,7 @@ heart-disease-ml/
 |-------|---------|----------|-----------|
 | KNN     | 0.8161     | 0.870      | 0.853   |
 
-> For full details on exploratory data analysis, feature engineering, and model evaluation, see the notebook in `notebooks/`.
+> For full details on exploratory data analysis, preprocessing, training, and evaluation, see the notebook in `notebooks/`.
 
 ---
 
